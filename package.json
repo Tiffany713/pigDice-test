@@ -1,0 +1,24 @@
+{
+  "name": "pigDice2Dice",
+  "version": "1.0.0",
+  "description": "* Behavior: When user clicks on the ROLL button, they recieve a random number   * Input: Click ROLL button   * Output: *displays random number between 1-6*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiffany713/pigDice2Dice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tiffany713/pigDice2Dice/issues"
+  },
+  "homepage": "https://github.com/Tiffany713/pigDice2Dice#readme",
+  "devDependencies": {
+    "webpack": "4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
+}
